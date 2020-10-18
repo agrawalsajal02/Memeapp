@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Meme App</string>
+    <string name="enter_the_name">Enter the Name</string>
+    <string name="create_birthday_card">Create BirthDay Card</string>
+    <string name="sajal">Sajal</string>
+    <string name="share">share</string>
+    <string name="next">next</string>
+</resources>
